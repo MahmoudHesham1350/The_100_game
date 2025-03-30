@@ -1,16 +1,3 @@
-/*
- * student Name: Mahmoud Hesham AbdElhafeez Awd
- * student ID :  20230602
- *
- * program v1 date
- * program v2 date 3/1/2024
-
- * The 100 game:
- * in this game players try to reach 100 first to win in this game
- * After each win it is recorded for each player
- * players can start a new game or print score or Exit program
- */
-
 #include <iostream>
 #include <iomanip>
 using namespace std;
